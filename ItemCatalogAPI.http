@@ -1,0 +1,6 @@
+@ItemCatalogAPI_HostAddress = http://localhost:5161
+
+GET {{ItemCatalogAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
